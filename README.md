@@ -21,5 +21,6 @@ PySpark: Para el procesamiento distribuido de datos y análisis de grandes volú
 Python: Para la implementación de scripts de análisis y manipulación de datos.
 Jupyter Notebook: Para la creación de documentos interactivos que combinan código, visualizaciones y explicaciones.
 Pandas y Matplotlib: Para la manipulación y visualización de datos en Python.
+
 Contribuciones:
 ¡Las contribuciones son bienvenidas! Siéntase libre de colaborar en este proyecto proponiendo mejoras, corrigiendo errores, agregando nuevas técnicas de análisis o proporcionando nuevas perspectivas sobre los datos de viajes en taxi en Bogotá. Por favor, consulte las pautas de contribución en el archivo CONTRIBUTING.md antes de enviar cambios.
